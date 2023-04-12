@@ -1,0 +1,15 @@
+C:\Users\cmang\source\repos\PowersTable\PowersTable\bin\Debug\net6.0\PowersTable.exe
+C:\Users\cmang\source\repos\PowersTable\PowersTable\bin\Debug\net6.0\PowersTable.deps.json
+C:\Users\cmang\source\repos\PowersTable\PowersTable\bin\Debug\net6.0\PowersTable.runtimeconfig.json
+C:\Users\cmang\source\repos\PowersTable\PowersTable\bin\Debug\net6.0\PowersTable.dll
+C:\Users\cmang\source\repos\PowersTable\PowersTable\bin\Debug\net6.0\PowersTable.pdb
+C:\Users\cmang\source\repos\PowersTable\PowersTable\obj\Debug\net6.0\PowersTable.csproj.AssemblyReference.cache
+C:\Users\cmang\source\repos\PowersTable\PowersTable\obj\Debug\net6.0\PowersTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmang\source\repos\PowersTable\PowersTable\obj\Debug\net6.0\PowersTable.AssemblyInfoInputs.cache
+C:\Users\cmang\source\repos\PowersTable\PowersTable\obj\Debug\net6.0\PowersTable.AssemblyInfo.cs
+C:\Users\cmang\source\repos\PowersTable\PowersTable\obj\Debug\net6.0\PowersTable.csproj.CoreCompileInputs.cache
+C:\Users\cmang\source\repos\PowersTable\PowersTable\obj\Debug\net6.0\PowersTable.dll
+C:\Users\cmang\source\repos\PowersTable\PowersTable\obj\Debug\net6.0\refint\PowersTable.dll
+C:\Users\cmang\source\repos\PowersTable\PowersTable\obj\Debug\net6.0\PowersTable.pdb
+C:\Users\cmang\source\repos\PowersTable\PowersTable\obj\Debug\net6.0\PowersTable.genruntimeconfig.cache
+C:\Users\cmang\source\repos\PowersTable\PowersTable\obj\Debug\net6.0\ref\PowersTable.dll
